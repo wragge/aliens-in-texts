@@ -4,4 +4,8 @@ This repository contains the Jupyter notebooks and data I used in preparing for 
 
 I was exploring the occurance and contexts of the words 'aliens' and 'immigrants' in Australian newspapers, *The Bulletin*, and Commonwealth Hansard.
 
+This repository includes notebooks copied from GLAM Workbench.
+
+Run these notebooks live on Binder:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wragge/aliens-in-texts/master)
